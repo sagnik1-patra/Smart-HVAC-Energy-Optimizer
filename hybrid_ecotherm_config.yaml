@@ -1,0 +1,5 @@
+optimizer: Hybrid GWOA+WOA
+params:
+  dropout: 0.17365671350305223
+  lr: 0.001847906727264047
+  units: 92

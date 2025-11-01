@@ -1,0 +1,7 @@
+model_type: BiLSTM
+optimizer: Hybrid FPA+PSO
+params:
+  dropout: 0.1541135676586703
+  lr: 0.004013400344326415
+  units: 34
+time_steps: 10
